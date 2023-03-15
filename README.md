@@ -24,7 +24,7 @@ From your home screen, open File Explorer, right click This PC, and select Manag
 
 <br />
 Now you should be in Computer Management. From here, select Local Users and Groups from the left side and select the sub-folder Users. You will also see a sub-folder called Groups, however we will be focusing on the Users folder for this lab.<br/>
-<img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/Slide%202.png"/>
+<img src="https://github.com/Rastallworth1/Enabling-an-Administrator-account-on-Windows-11/blob/main/Screenshot%202.png"/>
 <br />
 
 
