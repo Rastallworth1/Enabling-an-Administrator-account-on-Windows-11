@@ -46,7 +46,7 @@ Now, right click on the Administrator account and select properties. Next, you w
 
 <br />
 As you can see, there is no longer a down arrow next to Administrator, which verifies the account is enabled. You will also want to set a password for the Administrator account. You’ll do this by right clicking again and selecting set password. Next, you will see a pop-up, disregard this pop-up and just select proceed and set a new password.  <br/>
-<img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/slide%205.png"/>
+<img src="https://github.com/Rastallworth1/Enabling-an-Administrator-account-on-Windows-11/blob/main/Screenshot%205%20pt%201.png"/>
 <br />
 <br/>
 <img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/slide%205.png"/>
