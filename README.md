@@ -59,7 +59,7 @@ As you can see, there is no longer a down arrow next to Administrator, which ver
 
   <br />
 To verify the password has been successfully set, simply sign out, and once you go to log back in, you notice you have an option for an Administrator sign in. You can now use the Administrator sign in. Depending on your organization, you may have to go back in and follow the previous steps and delete or disable the normal user account. <br/>
-<img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/Slide%207%20top.png"/>
+<img src="https://github.com/Rastallworth1/Enabling-an-Administrator-account-on-Windows-11/blob/main/Screenshot%206.png"/>
 <br />
 
 
