@@ -18,7 +18,7 @@ In most organizantions, you may be required to enable an Administrator account o
 
 <p align="center">
 From your home screen, open File Explorer, right click This PC, and select Manage.<br/>
-<img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/AD%20Home.png"/>
+<img src="https://github.com/Rastallworth1/Enabling-an-Administrator-account-on-Windows-11/blob/main/Screenshot%201.png"/>
 <br />
 
 
