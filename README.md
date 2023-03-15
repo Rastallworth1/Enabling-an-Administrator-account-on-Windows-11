@@ -30,7 +30,7 @@ Now you should be in Computer Management. From here, select Local Users and Grou
 
 <br />
 You should notice all the accounts associated to the PC. Windows 11 comes with a built in Administrator account, however it’s not automatically enabled. A quick way to tell if an account is enabled is to check and see there is a down arrow to the left of the accounts name. If it is, the account is disabled. In the lab, you can see that all account except for the vboxuser is disabled <br/>
-<img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/Slide%203.png"/>
+<img src="https://github.com/Rastallworth1/Enabling-an-Administrator-account-on-Windows-11/blob/main/Screenshot%203.png"/>
 <br />
 
 
