@@ -36,7 +36,7 @@ You should notice all the accounts associated to the PC. Windows 11 comes with a
 
 <br />
 Now, right click on the Administrator account and select properties. Next, you will unselect account is disabled, click apply, and OK. You have the option of naming the account, however for this lab, we will leave it as Administrator. <br/>
-<img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/slide%204.png"/>
+<img src="https://github.com/Rastallworth1/Enabling-an-Administrator-account-on-Windows-11/blob/main/Screenshot%204%20pt%201.png"/>
 <br />
 <br />Once you've entered the necessary information, click the OK button to create the user (Reggie). 
 <br/>
