@@ -52,7 +52,7 @@ As you can see, there is no longer a down arrow next to Administrator, which ver
 <img src="https://github.com/Rastallworth1/Enabling-an-Administrator-account-on-Windows-11/blob/main/Screenshot%205%20pt%202.png"/>
 <br />
 <br/>
-<img src="https://github.com/Rastallworth1/Active-Directory-Creating-Users/blob/main/slide%205.png"/>
+<img src="https://github.com/Rastallworth1/Enabling-an-Administrator-account-on-Windows-11/blob/main/Screenshot%205%20pt%203.png"/>
 <br />
 
 
